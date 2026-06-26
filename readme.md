@@ -1,4 +1,4 @@
-# Hi, I’m [Your Name] 👋
+# Hi, I’m Ayush gawali👋
 
 Welcome to my GitHub profile! I’m a passionate developer building projects with a focus on clean code, collaboration, and continuous learning.
 
